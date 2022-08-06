@@ -1,0 +1,24 @@
+section>header>nav>li{
+    display: inline-block; /* Organiza o texto da pag. para horizontaliza-lo*/
+    padding: 5px; /* Separa o conteúdo conforme selecionado pelo PX*/
+    text-decoration: dotted;
+    font-size: x-large;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+section{
+    text-align: center;
+    margin: auto;
+    width: auto;
+}
+
+body{
+    background-color: beige;
+    width: 960px;
+    text-align: center;
+    margin: auto;
+}
+figcaption{
+    color: red;
+}

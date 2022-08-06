@@ -1,0 +1,50 @@
+
+.index_header{
+
+}
+
+header>nav>ul>li{
+    display: inline-block; /* Organiza o texto da pag. para horizontaliza-lo*/
+    padding: 5px; /* Separa o conteúdo conforme selecionado pelo PX*/
+    text-decoration: overline;
+    font-size: x-large;
+    margin-left: 150px;
+    margin-right: 150px;
+
+
+     
+}
+body>section{
+    text-align: center;
+    width: 960px;
+    margin: auto; /*Centraliza-te!*/
+}
+
+.Out_of_the_context{
+    text-align: center;
+    width: 960px;
+    margin: auto;
+}
+.nav{
+    text-align: center;
+    width: 960px;
+    margin: auto; /*Centraliza-te!*/
+}
+body{
+    background-color:cornsilk;
+}
+table{
+    text-align: center;
+    width: 960px;
+    margin: auto;
+    background-color: yellow;
+}
+.ul_css{
+    text-align: center;
+
+    margin: auto;
+}
+
+
+
+    

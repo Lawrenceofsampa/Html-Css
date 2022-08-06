@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    /*Altera-se a cor de fundo e centraliza-se o texto*/
+    width: 960px;
+    margin: auto;
+}
+
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.ha_ha{
+    /*Para buscar uma alteração num elemento especifíco, basta identifica-lo com id ou class*/
+    color: blue;
+}
+
+.texto{
+    text-align: center;
+    width: 960px;
+    
+}
+.Python_texto{
+    text-align: center;
+    
+}
+.Primeira_imagen{
+
+}
+
+.Sub_text2{
+    font-style: italic;
+}
+.sub_text1{
+    font-style: italic;
+}
+.sub_text3{
+    font-style: italic;
+}
+.sub_text4{
+    font-style: italic;
+}
+.sub_text5{
+    font-style: italic;
+}
+
+
+
+
