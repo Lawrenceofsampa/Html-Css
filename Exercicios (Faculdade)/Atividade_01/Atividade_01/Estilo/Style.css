@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 960px;
+    margin: 0 auto; /*Espaçamento entre cos cantos*/
+
+}
+header ol a{
+    display: inline;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.texto{
+    display: 0 auto;
+}
