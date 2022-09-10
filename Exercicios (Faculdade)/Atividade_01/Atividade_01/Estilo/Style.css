@@ -2,16 +2,91 @@ body{
     text-align: center;
     background-color: antiquewhite;
     width: 960px;
-    margin: 0 auto; /*Espaçamento entre cos cantos*/
+    margin: 0 auto; /*Espaçamento entre os cantos*/
+    background-image: url(../Imagens/Roads_Sunrises_and_sunsets_Asphalt_535836_1920x1080.jpg); /*Põe a imagem no fundo de body*/
+    background-repeat: no-repeat;
+    background-size: initial; /*Põe a imagem num tamanho adequado*/
+    color: aliceblue;
+    
 
 }
 header ol a{
     display: inline;
     text-align: center;
+    color: brown;
 }
 p{
     text-align: justify;
 }
-.texto{
-    display: 0 auto;
+
+.Index img{
+    width: 500px;
+    height: 300px;
+}
+#Pag_02 img{
+    width: 500px;
+    height: 300px;
+}
+#Pag_05 img{
+    width: 500px;
+    height: 300px;
+}
+#Pag_03 img{
+    width: 500px;
+    height: 300px;
+}
+q{
+    color: blueviolet;
+    font-style: oblique;
+    font-size: larger;
+}
+a{
+    color: aquamarine;
+}
+table th, td {
+    color: aliceblue;
+    border-spacing: 5px;
+    border: 1px solid white;
+    border-collapse: collapse;
+    border-spacing: 5px;
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+}
+  
+}
+th, td {
+    padding: 15px;
+}
+.Verde{
+    background-color: green;
+    color: black;
+}
+.Light{
+    background-color: lightcoral;
+}
+.Light1{
+    background-color: lightcoral ;
+}
+.Light2{
+    background-color: lightcoral ;
+}
+.Light3{
+    background-color: lightcoral ;
+}
+.Light4{
+    background-color: lightcoral ;
+}
+.Light5{
+    background-color: lightcoral ;
+}
+.Coral1, .Coral2, .Coral3, .Coral4, .Coral5, .Coral6, .Coral7, .Coral8, .Coral9, .Coral10, .Coral11, .Coral12, .Coral13,.Coral14, .Coral15, .Coral16, .Coral17, .Coral18{
+    background-color: lightcoral;
+}
+table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
 }
